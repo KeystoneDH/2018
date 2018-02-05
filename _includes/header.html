@@ -1,0 +1,18 @@
+<header class="site-header px-responsive">
+  <div class="mt2 wrap">
+    <div class="measure">
+      <a href="/" class="site-title animated">
+
+      <span id="{{ page.id }}">
+
+      <img src="{{ "/media/keystonedh-keystone.svg" | prepend: site.github.url }}" />
+      <img src="{{ "/media/keystonedh-text.svg" | prepend: site.github.url }}" />
+      <img src="{{ "/media/keystonedh-2017.svg" | prepend: site.github.url }}" />
+
+      </span></a>
+
+      {% if site.show_social_icons %}
+        {% include social_links.html %}
+      {% endif %}
+  </div>
+</header>

@@ -1,0 +1,5 @@
+{% for page in site.pages %}
+    {% if page.tags and page.id != 'home' and page.id != 'hidden' %}
+    <a href="{{ page.url | prepend: site.github.url }}"><h2>{{ page.title }}</h2></a>
+    {% endif %}
+{% endfor %}
