@@ -7,7 +7,7 @@ tags: page
 
 <br/>
 
-## Complete the [Proposal Submission Form](https://survey.az1.qualtrics.com/jfe/form/SV_egMH4JJ5NMXuDDn) by __March 9, 2018__ ##
+## Complete the [Proposal Submission Form](https://survey.az1.qualtrics.com/jfe/form/SV_egMH4JJ5NMXuDDn) by __March 16, 2018__ ##
 
 The Keystone Digital Humanities conference (http://keystonedh.network/2018/) invites proposals for papers, interactive demonstrations, workshops, or panel discussions for its annual meeting, which will be held at the Pennsylvania State University, July 16-18, 2018. 
 <br/>
