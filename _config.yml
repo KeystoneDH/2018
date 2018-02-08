@@ -1,7 +1,7 @@
 # Site settings
-title:       Keystone DH 2017
+title:       Keystone DH 2018
 email:       contact@keystonedh.network
-description: "2017 Keystone Digital Humanities Conference will be held at the Chemical Heritage Foundation, July 12-14, 2017."
+description: "2018 Keystone Digital Humanities Conference will be held at the Pennsylvania State University, July 16-18, 2018."
 baseurl:     ""
 url:         "http://keystonedh.network"
 date_format: "%b %-d, %Y"
