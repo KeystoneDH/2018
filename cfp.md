@@ -9,7 +9,7 @@ tags: page
 
 ## Complete the [Proposal Submission Form](https://survey.az1.qualtrics.com/jfe/form/SV_egMH4JJ5NMXuDDn) by __March 16, 2018__ ##
 
-The Keystone Digital Humanities conference (http://keystonedh.network/2018/) invites proposals for papers, interactive demonstrations, workshops, or panel discussions for its annual meeting, which will be held at the Pennsylvania State University, July 16-18, 2018. 
+The [Keystone Digital Humanities conference](http://keystonedh.network/2018/) invites proposals for papers, interactive demonstrations, workshops, or panel discussions for its annual meeting, which will be held at the Pennsylvania State University, July 16-18, 2018. 
 <br/>
 
 Paper presentations will be 15 minutes in length, while panel discussions and workshops must be proposed by all participants and not exceed one hour in length. 
