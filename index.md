@@ -9,7 +9,7 @@ id: home
 <div class="site-nav">{% include navigation.html %}</div>
 <br/>
 
-# WELCOME to **#KEYDH** *!*
+# WELCOME to **#KEYDH2018** *!*
 
 **[Call for proposals](http://keystonedh.network/2018/cfp/)**
 
