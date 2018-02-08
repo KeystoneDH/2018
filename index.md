@@ -23,3 +23,4 @@ Conference Organizing Committee
 - Kira Homo
 - Aaron Mauro
 - John Russell
+- Ahmed Yousof
