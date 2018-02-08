@@ -29,3 +29,4 @@ Conference Organizing Committee:
 - Kevin Conaway 
 - Kira Homo 
 - Emily Hagen
+- Ahmed Yousof
