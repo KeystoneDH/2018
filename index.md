@@ -15,7 +15,9 @@ We are excited to announce that this year's Keystone DH will be held at Penn Sta
 
 # Registration #
 
-We will not be charging a registration fee this year. We will be posting a link to register for the conference soon.
+We will not be charging a registration fee this year. 
+
+We will be posting a link to register for the conference soon.
 
 ---
 Conference Organizing Committee
