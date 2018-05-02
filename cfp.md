@@ -1,7 +1,7 @@
 ---
 layout: default
 title: cfp
-id:
+id: hidden
 tags: page
 ---
 
