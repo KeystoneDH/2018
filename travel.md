@@ -1,13 +1,28 @@
 ---
 layout: default
 title: "hotel & travel"
-id: hidden
+id: travel
 tags: page
 ---
 
 ## Accommodations
 
-There is a block of rooms at [The Nittany Lion Inn]() and [The Atherton Hotel]() reserved at a conference rate; details about how to make a reservation forthcoming. There are a couple of other hotels within walking distance of campus and a number of other options within driving distance or on bus lines. **Given summer demand during new student orientation, we encourage you to book ahead.**
+We have set aside a block of rooms at The Atherton Hotel for $90/night:
+
+Group Name: Keystone DH
+Group Code: JS5ER5
+
+The Atherton Hotel, an Ascend Hotel Collection Member
+125 S. Atherton Street,
+State College, PA, US, 16801-3896
++1 (814) 231-2100
+http://www.athertonhotel.net
+
+There are other hotels in the area, if you prefer, with The Nittany Lion Inn being the most convenient (on campus and a short walk to conference rooms): https://nittanylioninn.psu.edu/ 
+
+Note that there is another hotel on campus, The Penn Stater, which is not walkable to the center of campus or downtown, but is on the campus bus loop and has shuttle service: https://thepennstaterhotel.psu.edu/ 
+
+**Given summer demand during new student orientation, we encourage you to book ahead.**
 
 ## Travel
 
