@@ -9,14 +9,13 @@ tags: page
 
 We have set aside a block of rooms at The Atherton Hotel for $90/night:
 
-Group Name: Keystone DH
-
+Group Name: Keystone DH<br/>
 Group Code: JS5ER5
 
-The Atherton Hotel, an Ascend Hotel Collection Member
-125 S. Atherton Street,
-State College, PA, US, 16801-3896
-+1 (814) 231-2100
+The Atherton Hotel, an Ascend Hotel Collection Member<br/>
+125 S. Atherton Street<br/>
+State College, PA, US, 16801-3896<br/>
+1 (814) 231-2100<br/>
 [http://www.athertonhotel.net](http://www.athertonhotel.net)
 
 There are other hotels in the area, if you prefer, with The Nittany Lion Inn being the most convenient (on campus and a short walk to conference rooms): [https://nittanylioninn.psu.edu/](https://nittanylioninn.psu.edu/)
