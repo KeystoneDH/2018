@@ -15,9 +15,12 @@ We are excited to announce that this year's Keystone DH will be held at Penn Sta
 
 # Registration #
 
-We will not be charging a registration fee this year. 
-
-We will be posting a link to register for the conference soon.
+While there is no registration fee this year, we ask that you please register using the link below. We will use this information to aid in planning for food/beverages as well as to help with setting up spaces for the conference. Thank you!
+<br /><br />
+If you are presenting, you do not need to register!
+<br /><br />
+## [Registration Form](https://survey.az1.qualtrics.com/jfe/form/SV_2atWsWqL0AIBiwl) ##
+<br />
 
 ---
 Conference Organizing Committee
