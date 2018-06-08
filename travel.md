@@ -11,7 +11,7 @@ We have set aside a block of rooms at The Atherton Hotel for $90/night:
 
 Group Name: Keystone DH<br/>
 Group Code: JS5ER5<br/>
-**Use this link to make your reservations**: [https://www.choicehotels.com/reservations/groups/JS5ER5](https://www.choicehotels.com/reservations/groups/JS5ER5)
+**Use this link to make your reservations**: [https://www.choicehotels.com/reservations/groups/JS5ER5](https://www.choicehotels.com/reservations/groups/JS5ER5) <br/>
 **This rate is good until June 16th**
 
 The Atherton Hotel, an Ascend Hotel Collection Member<br/>
