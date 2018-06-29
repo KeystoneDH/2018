@@ -5,7 +5,6 @@ id: Schedule
 tags: page
 ---
 
-Conference Schedule<br/>
 
 **Sessions will be in the Jury Space on the first floor of the Stuckeman Family Building**
 <br/><br/>
