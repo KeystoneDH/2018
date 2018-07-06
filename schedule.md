@@ -13,7 +13,7 @@ tags: page
 **Monday, July 16**<br/><br/>
 **2:00pm - Project Presentations**<br/>
 Matt Shoemaker (Temple University), "Connecting Gaming Communities and Corporations to their History: The Gen Con Program Database"<br/>
-Zachary Enick and Eliza Jermyn (University of Pittsburgh), "*La Lega Toscana di Protezione*: A Social, Spatial, and Linguistic Study"<br/>
+Zachary Enick (University of Pittsburgh), "*La Lega Toscana di Protezione*: A Social, Spatial, and Linguistic Study"<br/>
 Kathryn Salzer (Penn State University), "Digital Humanities in the Classroom: 1968"<br/><br/>
 **3:30pm - Interactive demonstration**<br/>
 Joel Hunt (Penn State Erie), "Penn State Erie Interactive Sound and Music Map"<br/><br/>
