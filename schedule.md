@@ -37,7 +37,7 @@ Emily Logan (Temple University), "Impacting University Library Makerspace Cultur
 **2:45pm - Session 4**<br/>
 Roberto Vargas (Swarthmore College), "Examining Assumptions: Collaborating in the Classroom with Digital Tools"<br/>
 Joshua Korenblat (State University of New York at New Paltz), "How Digital Humanists and Designers Can Close Gaps in Learning Experiences"<br/>
-Sasha Renninger and Scott Enderle (University of Pennsylvania), "Building a Student-Powered DH Foundry"<br/><br/>
+Sasha Renninger, Scott Enderle, and Najay Greenidge (University of Pennsylvania), "Building a Student-Powered DH Foundry"<br/><br/>
 **4:15pm - Concurrent Workshops**<br/>
 Todd Bryant and Ryan Burke (Dickinson University), "Drupal for Digital Humanities Projects"<br/>
 Joshua Catalano, Laura Crossley, and Amanda Regan (George Mason University), "Awash in a Sea of Content? Keep Up with the Field Using PressForward"<br/>
