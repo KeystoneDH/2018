@@ -25,7 +25,7 @@ Joel Hunt (Penn State Erie), "Penn State Erie Interactive Sound and Music Map"<b
 **9:00am - Session 1**<br/>
 Heather Froehlich (Penn State University), "Using the Historical Thesaurus of the Oxford English Dictionary in Literary-Historical Analysis"<br/>
 Laura McCann (Carnegie Mellon University), "Identifying the Rhetorical Strategies of Fake News"<br/>
-Shu Wan (University of Iowa), "A Digital 'Historical Gaze' of Chinese Students in Iowa, 1911-1930"<br/><br/>
+<br/>
 **10:30am - Session 2**<br/>
 Derek Prijatelj, Timothy Ireland, and Mathew Kaufman (Duquesne University), "A Computational Linguistic Approach to Crowd Noise Generation"<br/>
 Rosa A. Eberly (Penn State University), "Harry Shearer's Character Machine: Sounding Out the *Le Show* Archive"<br/>
