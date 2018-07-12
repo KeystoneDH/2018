@@ -30,7 +30,7 @@ Laura McCann (Carnegie Mellon University), "Identifying the Rhetorical Strategie
 Derek Prijatelj, Timothy Ireland, and Mathew Kaufman (Duquesne University), "A Computational Linguistic Approach to Crowd Noise Generation"<br/>
 Rosa A. Eberly (Penn State University), "Harry Shearer's Character Machine: Sounding Out the *Le Show* Archive"<br/>
 Avery J. Wiscomb and Daniel Evans (Carnegie Mellon University), "Herb Simon and His Books"<br/><br/>
-**11:45am - Lunch Break**<br/><br/>
+**11:45am - Lunch Break** (Sandwiches, salads, drinks, and dessert will be available)<br/><br/>
 **1:15pm - Session 3**<br/>
 Joan E. Beaudoin (Wayne State University), "A Thousand Silos: Art Museums, Online Collections, and the Digital Humanities"<br/>
 Emily Logan (Temple University), "Impacting University Library Makerspace Culture through Citizen Science and Sustainability"<br/><br/>
