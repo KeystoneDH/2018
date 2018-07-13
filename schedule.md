@@ -7,6 +7,8 @@ tags: page
 
 
 **Sessions will be in the Jury Space on the first floor of the Stuckeman Family Building**
+<br/>
+See [this map](https://www.google.com/maps/d/u/0/viewer?mid=1JTL1PDrKY7W9zg7K0XeufL-1150&ll=40.800905140701325%2C-77.86738690081796&z=16) for building location and location of nearby parking.
 <br/><br/>
 **There will be 15 minute breaks after each session**
 
