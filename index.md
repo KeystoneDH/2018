@@ -19,7 +19,7 @@ While there is no registration fee this year, we ask that you please register us
 <br /><br />
 If you are presenting, you do not need to register!
 <br /><br />
-## [Registration Form](https://survey.az1.qualtrics.com/jfe/form/SV_2atWsWqL0AIBiwl) ##
+## Registration is now closed. ##
 <br />
 
 ---
