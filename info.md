@@ -11,7 +11,7 @@ The Pennsylvania State University values inclusion as a core strength and an ess
 
 ## Questions? ##
 
-Please feel free to ask conference organizers for any information you might need. Or you can also tweet at us **@keystonedh**.
+Please feel free to ask conference organizers for any information you might need. Or you can tweet at us **@keystonedh**.
 
 ## Wireless ##
 <br/>
